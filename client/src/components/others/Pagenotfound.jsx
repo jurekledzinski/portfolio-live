@@ -1,7 +1,7 @@
 import React from "react";
 import { useHistory } from "react-router";
 
-import "./PagenotFound.scss";
+import "./Pagenotfound.scss";
 
 const PageNotFound = () => {
   const history = useHistory();
